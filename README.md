@@ -187,7 +187,7 @@ A aplicação estará disponível em `http://localhost:5173` (porta padrão do V
 
 ## 👨‍💻 Desenvolvedores
 
-| Nome | GitHub |
-|:---|:---|
+| Nome 
+|:---|
 | Jhonathan Pegoral |
 | Carlos Henrique | 
